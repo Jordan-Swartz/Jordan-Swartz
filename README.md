@@ -5,7 +5,7 @@ Hi, I'm Jordan Swartz and I'm a software engineering student at ASU 👋
 My Current Interests 👀
 - Backend Development
 - Machine Learning
-- Game Develdopment
+- Game Development
 - Cloud Computing
 - Embedded Systems Development
 
