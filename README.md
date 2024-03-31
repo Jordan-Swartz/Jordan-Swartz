@@ -16,3 +16,5 @@ Programming Languages and Tools 😄
 - Javascript
 - HTML/CSS
 - Linux
+- Ubuntu
+- VSCode
