@@ -10,12 +10,10 @@ My Current Interests 👀
 - Embedded Systems Development
 
 Programming Languages and Tools 😄
-- Java
-- JavaFX
+- Java/JavaFX
 - C/C++
 - Javascript
-- HTML/CSS
-- Linux
-- Ubuntu
+- HTML/CSS/Bootstrap
+- Linux/Ubuntu
 - Bash
 - VSCode
