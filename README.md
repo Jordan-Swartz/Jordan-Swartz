@@ -8,6 +8,7 @@ My Current Interests 👀
 - Game Development
 - Cloud Computing
 - Embedded Systems Development
+- Cybersecurity
 
 Programming Languages and Tools 😄
 - Java/JavaFX
