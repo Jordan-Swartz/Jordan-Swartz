@@ -15,6 +15,6 @@ Programming Languages and Tools 😄
 - C/C++
 - Javascript
 - HTML/CSS/Bootstrap
-- Linux/Ubuntu
+- Linux/Ubuntu/Xubuntu
 - Bash
 - VSCode
