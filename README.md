@@ -15,6 +15,5 @@ Programming Languages and Tools 😄
 - C/C++
 - Javascript
 - HTML/CSS/Bootstrap
-- Linux/Ubuntu/Xubuntu
-- Bash
-- VSCode
+- Linux/Ubuntu/Bash
+- Taiga
