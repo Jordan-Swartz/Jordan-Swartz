@@ -16,4 +16,5 @@ Programming Languages and Tools 😄
 - Javascript
 - HTML/CSS/Bootstrap
 - Linux/Ubuntu/Bash
+- AWS
 - Taiga
