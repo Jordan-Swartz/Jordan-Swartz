@@ -13,6 +13,7 @@ My Current Interests 👀
 Programming Languages and Tools 😄
 - Java/JavaFX
 - C/C++
+- Python
 - Javascript
 - HTML/CSS/Bootstrap
 - Linux/Ubuntu/Bash
